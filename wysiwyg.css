@@ -78,3 +78,6 @@ body {
 .strikethrough {
   text-decoration: line-through;
 }
+.paper>div {
+  overflow-wrap: break-word;
+}
